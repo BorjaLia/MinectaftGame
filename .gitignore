@@ -1,0 +1,36 @@
+
+# Visual Studio & Cache
+
+.vs
+*.user
+*.suo
+*.db
+*.opendb
+*.vc.db
+
+# Compiled binaries and build artifacts
+
+bin/
+obj/
+
+# Doxygen (Generated documentation)
+
+html/
+latex/
+
+# Config files
+
+*.ini
+
+# Engine Logs
+
+engine.log
+*.log
+
+# Replays
+
+*.rep
+
+# Temp folder
+
+Temp/
